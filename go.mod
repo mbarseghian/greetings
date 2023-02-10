@@ -1,3 +1,3 @@
-module github.com/go_introduction/go_introduction/greetings
+module github.com/mbarseghian/greetings
 
 go 1.20
